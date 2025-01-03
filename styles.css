@@ -1,12 +1,29 @@
+/* Still don't know what this does */
 * {
   box-sizing: border-box;
 }
 
-main {
-  padding: 1rem;
+/* Regarding index */
+.indexbody {
+  margin: 0;
+  height: 100vh;
+  background: url('https://media4.giphy.com/media/BK1EfIsdkKZMY/200w.gif?cid=6c09b952mmhbfwtjmmwx3xlof5a7eip5jqtotjbaajn2347c&ep=v1_gifs_search&rid=200w.gif&ct=g') no-repeat center center fixed;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
 }
 
-h1 {
-  font-weight: bold;
-  font-size: 1.5rem;
+/* Background?? */
+.nobody, .enbody {
+    background-color: #D9CFC0;
 }
+
+/* English site style */
+.enbody {
+
+}
+.enbody nav {
+   
+}
+
+/* Norsk side stil */
